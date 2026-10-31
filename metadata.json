@@ -1,0 +1,11 @@
+{
+  "name": "Heritec",
+  "description": "Heritec - Showcase of the rich cultural heritage and traditions of India featuring interactive State Geographic Cartography and maps with state names, curated UNESCO sites, regional audio guides, solo & safe group expedition tracking, festival calendar, and AI Smart Travel Tips.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
